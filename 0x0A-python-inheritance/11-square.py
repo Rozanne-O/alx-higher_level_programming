@@ -20,3 +20,6 @@ class Square(Rectangle):
         """__str__method"""
         return "[Square] {}/{}".format(self.__size, self.__size)
 
+~
+~
+
